@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @datapro
 - 👀 I’m very good with laravel php
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m good with reactjs
+- 🌱 I’m good with python
+- 🌱 I’m good with HTML/CSS
+- 🌱 I’m good with JavaScript
+- 🌱 I’m good with PHP
 - 💞️ I’m looking to collaborate on laravel project
 - 📫 How to reach me +2347032446095 or datapro2014@gmail.com
 
