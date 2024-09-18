@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @datapro
+- 👋 programming is my hubby
 - 👀 I’m very good with laravel php
 - 🌱 I’m good with reactjs
 - 🌱 I’m good with python
