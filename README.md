@@ -2,6 +2,7 @@
 - 👋 programming is my hubby
 - 👀 I’m very good with laravel php
 - 🌱 I’m good with reactjs
+- 🌱 I’m good with reactnative and laravel api for mobile app deploy on android and ios store
 - 🌱 I’m good with python
 - 🌱 I’m good with HTML/CSS
 - 🌱 I’m good with JavaScript
